@@ -1,36 +1,91 @@
 [{
     "creator": "Darlyn",
     "number": "1",
-    "male": "https://i.pinimg.com/564x/74/a9/57/74a95735fb72788b4e7046c90bc47777.jpg",
-    "female": "https://i.pinimg.com/236x/7b/6d/a9/7b6da94754765ff7104468bcff81fdd1.jpg"
+    "idol": "https://i.pinimg.com/564x/74/a9/57/74a95735fb72788b4e7046c90bc47777.jpg"
 },
-
 {
     "creator": "Darlyn",
     "number": "2",
-    "male": "https://i.pinimg.com/236x/74/dc/3f/74dc3fbf35fb99ed2eb6fbf613e0c360.jpg",
-    "female": "https://i.pinimg.com/236x/dd/72/f0/dd72f0fd3c933846ccf6892eabd938a6.jpg"
+    "idol": "https://i.pinimg.com/236x/74/dc/3f/74dc3fbf35fb99ed2eb6fbf613e0c360.jpg"
 },
 {
     "creator": "Darlyn",
     "number": "Darlyn",
-    "male": "https://i.pinimg.com/236x/0f/19/74/0f1974183c4d50452d9ec0e5d4cf2194.jpg",
-    "female": "https://i.pinimg.com/236x/8f/d3/ac/8fd3ac3adc293f7c942f9ee393b4e93a.jpg"
+    "idol": "https://i.pinimg.com/236x/0f/19/74/0f1974183c4d50452d9ec0e5d4cf2194.jpg"
 },
 {
     "creator": "Darlyn",
     "number": "4",
-    "male": "https://i.pinimg.com/236x/35/0a/52/350a520ca73a758e9afb0550861ef365.jpg",
-    "female": "https://i.pinimg.com/564x/db/cd/da/dbcdda7f75ec65f864ed71338b9e3d06.jpg"
+    "idol": "https://i.pinimg.com/236x/35/0a/52/350a520ca73a758e9afb0550861ef365.jpg"
 },
 {
     "creator": "Darlyn",
     "number": "5",
-    "male": "https://i.pinimg.com/236x/8d/5f/96/8d5f96aec02a5f2f9fd1b04328c178f0.jpg",
-    "female": "https://i.pinimg.com/236x/06/11/c4/0611c4bb1aec09189698c51410105148.jpg"
+    "idol": "https://i.pinimg.com/236x/8d/5f/96/8d5f96aec02a5f2f9fd1b04328c178f0.jpg"
 },
 {   "creator": "Darlyn",
     "number": "6",
-    "male": "https://i.pinimg.com/236x/8a/09/4f/8a094fad4c4fdcc2bed15ad5a2d32cf8.jpg",
-    "female": "https://i.pinimg.com/236x/3b/db/57/3bdb571a80e250a4eba9b6de8c185fca.jpg"
+    "idol": "https://i.pinimg.com/236x/8a/09/4f/8a094fad4c4fdcc2bed15ad5a2d32cf8.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "7",
+    "idol": "https://i.pinimg.com/236x/7b/6d/a9/7b6da94754765ff7104468bcff81fdd1.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "8",
+    "idol": "https://i.pinimg.com/236x/8f/d3/ac/8fd3ac3adc293f7c942f9ee393b4e93a.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "9",
+    "idol": "https://i.pinimg.com/564x/db/cd/da/dbcdda7f75ec65f864ed71338b9e3d06.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "10",
+    "idol": "https://i.pinimg.com/236x/d1/be/c3/d1bec31d53de58f1b521b8541250f559.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "11",
+    "idol": "https://i.pinimg.com/236x/2f/b3/38/2fb338a46032902ce5c43b30021a9b94.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "12",
+    "idol": "https://i.pinimg.com/236x/42/ea/db/42eadbf307f176696c8eca722fc1a970.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "13",
+    "idol": "https://i.pinimg.com/236x/42/ca/e7/42cae71d845a638a222cfc7133fe76a4.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "14",
+    "idol": "https://i.pinimg.com/236x/45/89/48/458948491d8066e371c6196eb0d87d4c.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "15",
+    "idol": "https://i.pinimg.com/236x/06/11/c4/0611c4bb1aec09189698c51410105148.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "16",
+    "idol": "https://i.pinimg.com/236x/3b/db/57/3bdb571a80e250a4eba9b6de8c185fca.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "17",
+    "idol": "https://i.pinimg.com/564x/b0/de/24/b0de248cf63e555c6742a575d62301bc.jpg"
+},
+{
+    "creator": "Darlyn",
+    "number": "18",
+    "idol": "https://i.pinimg.com/236x/d7/2e/03/d72e033562fd56c42bff020cf580b991.jpg"
+  
+    
 }]
